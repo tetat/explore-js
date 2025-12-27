@@ -22,3 +22,4 @@ const person2 = {
   },
 };
 person2.lang = "bn";
+console.log(person2.language);
